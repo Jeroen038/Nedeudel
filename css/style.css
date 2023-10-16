@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'Kanit', sans-serif;
+    color: rgb(253, 253, 253);
+}
+
+
+body {
+    background-image: url(../img/_21x_jsedx019u_HD-Nexus-Wallpaper-57-pictures-.jpg);
+}
+
+.space {
+   margin-bottom: 4em;
+}
+
+#text{
+    visibility: hidden;
+    font-size: 2em;
+    font-weight: 1000;
+    width: 1080px;
+}
+
+#text1 {
+    visibility: hidden;
+    font-size: 2em;
+    font-weight: 1000;
+    width: 200px;
+}
+#text2 {
+    visibility: hidden;
+    font-size: 2em;
+    font-weight: 1000;
+    width: 200px;
+}
+#text3 {
+    visibility: hidden;
+    font-size: 2em;
+    font-weight: 1000;
+    width: 200px;
+}
+
+.imgload {
+    width: 90vh;
+}
+
+.animated-text .imglogo {
+    width: 40vh;
+}
