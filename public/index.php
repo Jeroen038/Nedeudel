@@ -38,6 +38,23 @@
             </div>
         </div>
     </div>
+<<<<<<< HEAD:index.php
+=======
+    <div class="row space">
+        <div class="col-3"></div>
+        <div id="text1" class="animated-text col 4"><img class="imgload" src="img/Deutschland.png"></img></div>
+    </div>
+    <div class="row space ">
+        <div class="col-7"></div>
+        <div id="text2" class="animated-text col 4"><img class="imgload" src="img/Wordle.png"></img></div>
+    </div>
+    <div class="row ">
+        <div class="col-5"></div>
+        <div id="text3" class="animated-text col 4"><img class="imglogo" src="img/nedeudel (1).png"></img></div>
+    </div>
+    </div>
+</div>
+>>>>>>> main:public/index.php
 </body>
 <script src="js/main.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
