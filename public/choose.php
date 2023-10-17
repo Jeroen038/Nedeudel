@@ -15,9 +15,28 @@
 
 <body>
     <div class="container-fluid p-0 m-0">
+        <div class="container-fluid p-0 m-0">
+            <div class="row">
+                <div class="col-lg-3 d-flex justify-content-start p-2">
+                    <a class="links" href="/rules.php">
+                    <div class="rulesBtn">
+                        <h1>Rules</h1>
+                    </div>
+                    </a>
+                </div>
+                <div class="col-lg-3"></div>
+                <div class="col-lg-3"></div>
+                <div class="col-lg-3 d-flex justify-content-end p-2">
+                    <a class="links" href="/howtoplay.php">
+                    <div class="playBtn">
+                        <h1>How to Play</h1>
+                    </div>
+                    </a>
+                </div>
+            </div>
+        </div>
         <div class="row">
             <div class="text col-lg-12">
-                <div class="spacer"></div>
                 <div class="spacer"></div>
                 <h1>Choose your game!</h1>
             </div>
