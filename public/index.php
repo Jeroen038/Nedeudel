@@ -28,7 +28,7 @@
     </div>
     <div class="row ">
         <div class="col-5"></div>
-        <div id="text3" class="animated-text col 4"><img class="imglogo" src="img/image.png"></img></div>
+        <div id="text3" class="animated-text col 4"><img class="imglogo" src="img/nedeudel (1).png"></img></div>
     </div>
     </div>
 </div>
