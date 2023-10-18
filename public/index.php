@@ -22,15 +22,15 @@
     <div class="container-fluid p-0 m-0">
         <div class="row space">
             <div class="row ml-3 space ">
-                <div id="text" class="animated-text col-3"><img class="imgload" src="img/Nederland.png"></img></div>
+                <div id="text" class="animated-text col-3"><img class="imgload" src="img/NE.png"></img></div>
             </div>
             <div class="row space">
                 <div class="col-3"></div>
-                <div id="text1" class="animated-text col 4"><img class="imgload" src="img/Deutschland.png"></img></div>
+                <div id="text1" class="animated-text col 4"><img class="imgload" src="img/DEU.png"></img></div>
             </div>
             <div class="row space ">
                 <div class="col-7"></div>
-                <div id="text2" class="animated-text col 4"><img class="imgload" src="img/Wordle.png"></img></div>
+                <div id="text2" class="animated-text col 4"><img class="imgload" src="img/DLE.png"></img></div>
             </div>
             <div class="row ">
                 <div class="col-5"></div>
